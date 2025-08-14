@@ -1,62 +1,54 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Surendran S</h1>
-<h3 align="center">Full Stack Web Developer | Tech Enthusiast | Problem Solver</h3>
+# 💡 Surendran S — Innovation Engineer 🚀
+
+Hi, I'm **Surendran S**, a passionate **Full Stack Web Developer** and aspiring problem solver.  
+I love transforming ideas into real-world applications — from web projects to hardware innovations.
 
 ---
 
-<!-- About Me -->
-<!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" -->
-
-- 🎓 **B.E. CSE** @ Velammal Engineering College  
-- 💻 Full Stack Web Development (HTML, CSS, JS, Python, Java)  
-- ☁ AWS | Git | Canva | Dynamic Programming Learner  
-- 🎯 Passionate about solving problems & building impactful projects  
-- 📧 **Email:** surendransivakumar2004@gmail.com  
-
----
-
-## 🛠 Skills & Tools  
+## 🛠️ Skills & Tools
 <p align="left">
-<img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" />
-<img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
-<img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
-<img src="https://img.icons8.com/color/48/python.png" alt="Python" />
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" />
-<img src="https://img.icons8.com/color/48/git.png" alt="Git" />
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" />
-<img src="https://img.icons8.com/color/48/canva.png" alt="Canva" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 📚 Currently Learning  
+## 📚 Currently Learning
 - Dynamic Programming in Python & JavaScript
+- Exploring advanced cloud integrations with AWS
 
 ---
 
-## 🚀 Projects  
-- 🎬 **YouTube Frontend Clone** – Built with HTML & CSS  
-- 🏛 **Ancient Monument App** – Showcasing historical places  
-- ☁ **Unified Cloud Instance Manager (UCIM)** – AWS cloud resource monitor  
-- 📡 **Doppler-Based Pothole Detector** – IoT road safety solution  
+## 🚀 Projects
+- 🎬 **YouTube Frontend Clone** — Built entirely using HTML & CSS  
+- 🏛 **Ancient Monument App** — An educational mobile app for history lovers  
+- ☁ **Unified Cloud Instance Manager (UCIM)** — Manage multiple cloud instances in one place  
+- 🛣 **Doppler-Based Pothole Detector** — Hardware project to enhance road safety
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=surendransivakumar2004&show_icons=true&theme=tokyonight" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surendransivakumar2004&theme=tokyonight" alt="streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendransivakumar2004&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suren0718&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suren0718&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect With Me  
+## 📬 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/surendran-s-writer/">LinkedIn<img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
-<a href="mailto:surendransivakumar2004@gmail.com">Gmail<img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/surendran-s-writer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Surendran%20S-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:surendransivakumar2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-surendransivakumar2004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
-
-⭐ *"Code is like humor. When you have to explain it, it’s bad."*
+🌟 *"Innovating one project at a time, from pixels to hardware!"*
