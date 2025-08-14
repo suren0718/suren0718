@@ -1,25 +1,46 @@
-# 👋 Hey there! I'm Surendran S
+# 👋 Hey there! I'm Surendran S  
 
-💻 **Full Stack Developer in the making** | 🌱 Always learning and building
-
----
-
-### 🚀 About Me
-- 🔭 **Currently learning**: HTML & CSS  
-- 🎯 **Goal**: To become a skilled full stack developer  
-- 📫 **Reach me at**: [surendransivakumar2004@gmail.com](mailto:surendransivakumar2004@gmail.com)  
+🎓 **B.E. Computer Science Engineering** @ Velammal Engineering College  
+💻 **Full Stack Web Developer** | Problem Solver | Tech Enthusiast  
 
 ---
 
-### 🛠 Tech Stack (in progress)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## 🚀 About Me  
+I’m passionate about crafting beautiful, functional, and efficient software.  
+From front-end designs to backend logic, I love building solutions that make an impact.  
 
 ---
 
-### 📊 GitHub Stats
-![Surendran's GitHub stats](https://github-readme-stats.vercel.app/api?username=suren0718&show_icons=true&theme=radical)
+## 🛠 Tech Stack  
+**Languages:** HTML, CSS, JavaScript, Python, Java  
+**Tools & Platforms:** Git, Canva, AWS  
+**Specialty:** Full Stack Web Development  
 
 ---
 
-⭐ *"Code, Learn, Repeat"*  
+## 📚 Currently Learning  
+- Dynamic Programming in Python & JavaScript  
+
+---
+
+## 🏆 Recent Learning  
+- Mastered **HTML** & **CSS** fundamentals  
+- Explored creating responsive designs  
+
+---
+
+## 💡 Projects  
+- 🎬 **YouTube Frontend Clone** – Built entirely using HTML & CSS  
+- 🏛 **Ancient Monument App** – Showcasing historical places  
+- ☁ **Unified Cloud Instance Manager (UCIM)** – AWS-based cloud resource monitor  
+- 📡 **Doppler-Based Pothole Detector** – IoT hardware solution for road safety  
+
+---
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surendran-s-writer/)  
+📧 **Email:** surendransivakumar2004@gmail.com  
+
+---
+
+⭐ _"Code is like humor. When you have to explain it, it’s bad."_ – Keep coding and keep laughing!  
