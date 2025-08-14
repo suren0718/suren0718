@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Surendran S</h1>
+# 👋 Hey there! I'm Surendran S  
 
-<h3 align="center">### 🚀 About Me</h3>
-<h3 align="center">Full Stack Web Developer | Innovation Engineer | Problem Solver</h3>
-
-
+🎓 **B.E. Computer Science Engineering** @ Velammal Engineering College  
+💻 **Full Stack Web Developer** | Problem Solver | Tech Enthusiast  
 
 ---
 
