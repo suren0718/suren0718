@@ -1,7 +1,9 @@
-# Hi there, i'm Surendran 👋
+<h1 align="center">Hi 👋, I'm Surendran S</h1>
 
-Hi, I'm **Surendran S**, a passionate **Full Stack Web Developer** and aspiring problem solver.  
-I love transforming ideas into real-world applications — from web projects to hardware innovations.
+<h3 align="center">### 🚀 About Me</h3>
+<h3 align="center">Full Stack Web Developer | Innovation Engineer | Problem Solver</h3>
+
+
 
 ---
 
@@ -21,13 +23,12 @@ I love transforming ideas into real-world applications — from web projects to 
 
 ## 📚 Currently Learning
 - Dynamic Programming in Python & JavaScript
-- Exploring advanced cloud integrations with AWS
 
 ---
 
 ## 🚀 Projects
 - 🎬 **YouTube Frontend Clone** — Built entirely using HTML & CSS  
-- 🏛 **Ancient Monument App** — An educational mobile app for history lovers  
+- 🏛 **Ancient Monument App** — An educational web app for history lovers  
 - ☁ **Unified Cloud Instance Manager (UCIM)** — Manage multiple cloud instances in one place  
 - 🛣 **Doppler-Based Pothole Detector** — Hardware project to enhance road safety
 
@@ -40,7 +41,7 @@ I love transforming ideas into real-world applications — from web projects to 
 
 ---
 
-## 📬 Connect with Me
+## 📬 Lets connect
 <p align="left">
   <a href="https://www.linkedin.com/in/surendran-s-writer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Surendran%20S-blue?style=for-the-badge&logo=linkedin" />
