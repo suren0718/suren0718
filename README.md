@@ -5,7 +5,7 @@
 ---
 
 <!-- About Me -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" -->
 
 - 🎓 **B.E. CSE** @ Velammal Engineering College  
 - 💻 Full Stack Web Development (HTML, CSS, JS, Python, Java)  
@@ -53,8 +53,8 @@
 
 ## 🌐 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/surendran-s-writer/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
-<a href="mailto:surendransivakumar2004@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/surendran-s-writer/">LinkedIn<img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
+<a href="mailto:surendransivakumar2004@gmail.com">Gmail<img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
 </p>
 
 ---
