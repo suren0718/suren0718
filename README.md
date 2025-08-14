@@ -43,7 +43,7 @@
 ## 📬 Let's Connect
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surendran-s-writer/) -->
 <a href="https://www.linkedin.com/in/surendran-s-writer/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="25" height="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" />
 </a>
 
 </a>
