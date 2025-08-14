@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm Surendran S  
+## 🚀 About Me
 
-🎓 **B.E. Computer Science Engineering** @ Velammal Engineering College  
+🎓  I’m a CSE Student    
 💻 **Full Stack Web Developer** | Problem Solver | Tech Enthusiast  
 
 ---
