@@ -41,9 +41,10 @@
 ---
 
 ## 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surendran-s-writer/)  
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surendran-s-writer/) -->
 <a href="https://www.linkedin.com/in/surendran-s-writer/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
+  <img src="<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/e0800b59-f538-4f1a-94e8-899305c3e97e" />
+" width="40" height="40" alt="LinkedIn"/>
 </a>
 <br>
 <a href="mailto:surendransivakumar2004@gmail.com">
