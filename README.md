@@ -40,15 +40,10 @@
 
 ---
 
-## 📬 Lets connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/surendran-s-writer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Surendran%20S-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:surendransivakumar2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-surendransivakumar2004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Surendran%20S-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/surendran-s-writer/)  
+[![Gmail](https://img.shields.io/badge/Gmail-surendransivakumar2004%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:surendransivakumar2004@gmail.com)
 
 ---
 🌟 *"Innovating one project at a time, from pixels to hardware!"*
