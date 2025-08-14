@@ -53,4 +53,4 @@
 </a>
 
 ---
-🌟 *"Innovating one project at a time, from pixels to hardware!"*
+🌟 *"Code, Learn, Repeat"*  
