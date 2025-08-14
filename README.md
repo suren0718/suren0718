@@ -1,4 +1,4 @@
-# 💡 Surendran S — Innovation Engineer 🚀
+# Hi there, i'm Surendran 👋
 
 Hi, I'm **Surendran S**, a passionate **Full Stack Web Developer** and aspiring problem solver.  
 I love transforming ideas into real-world applications — from web projects to hardware innovations.
