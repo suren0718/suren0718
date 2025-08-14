@@ -42,8 +42,12 @@
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Surendran%20S-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/surendran-s-writer/)  
-[![Gmail](https://img.shields.io/badge/Gmail-surendransivakumar2004%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:surendransivakumar2004@gmail.com)
+<a href="https://www.linkedin.com/in/surendran-s-writer/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
+</a>
+<a href="mailto:surendransivakumar2004@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
+</a>
 
 ---
 🌟 *"Innovating one project at a time, from pixels to hardware!"*
